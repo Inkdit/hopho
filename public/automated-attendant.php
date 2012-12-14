@@ -4,6 +4,6 @@
 ?>
 <Response>
 	<Gather timeout="30" numDigits="1" action="routing-options.php" method="POST">
-		<Play>http://phone.inkdit.com/greggs-home-phone/Phone-Message.mp3</Play>
+		<Play>http://hopho.orchestra.io/Phone-Message.mp3</Play>
 	</Gather>
 </Response>
